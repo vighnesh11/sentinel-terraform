@@ -15,6 +15,10 @@ The design follows **Microsoft-supported deployment patterns** and is suitable f
 This deployment follows Microsoft Sentinel best practices by **separating the security control plane from log-producing workloads**.  
 All security services are centralized, while workloads remain distributed across subscriptions.
 
+### Architecture Diagram
+
+![Microsoft Sentinel Terraform Architecture](Lab_Sentinel-IaC.drawio.png)
+
 ### 🔐 Subscription Layout
 
 ```text
