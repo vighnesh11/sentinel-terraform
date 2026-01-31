@@ -17,7 +17,7 @@ All security services are centralized, while workloads remain distributed across
 
 ### Architecture Diagram
 
-![Microsoft Sentinel Terraform Architecture](Lab_Sentinel-IaC.drawio.png)
+![Microsoft Sentinel Terraform Architecture](Sentinel-IaC.png)
 
 ### 🔐 Subscription Layout
 
